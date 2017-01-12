@@ -11,6 +11,11 @@ Mac Keyboard layout for typing åäöÅÄÖ on english 60% keyboard layout
   5. Copy mooh-60.bundle into Keyboard layout.
   6. restart.
 
+### Add input source
+  1. System Preferences > Keyboard > Input Sources
+  3. Click + (plus)
+  4. Select English, and mooh-60 should appear as a selection.
+
 ## Usage
 ### lowercase
 ```
