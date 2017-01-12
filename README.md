@@ -13,11 +13,14 @@ Mac Keyboard layout for typing åäöÅÄÖ on english 60% keyboard layout
 
 ## Usage
 ### lowercase
+```
   Alt-; for ö
   Alt-' for ä
   Alt-[ for å
-
+```
 ### uppercase
+```
   Shift-Alt-; for Ö
   shift-Alt-' for Ä
   shift-Alt-[ for Å
+```
