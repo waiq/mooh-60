@@ -29,3 +29,9 @@ Mac Keyboard layout for typing åäöÅÄÖ on english 60% keyboard layout
   shift-Alt-' for Ä
   shift-Alt-[ for Å
 ```
+
+## Credits
+* [Ukelele](http://scripts.sil.org/ukelele) - 
+Ukelele is a Unicode Keyboard Layout Editor for Mac OS X
+
+
